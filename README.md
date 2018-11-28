@@ -1,2 +1,2 @@
 # luafixmath16
-lua binding for libfixmath
+Lua binding for libfixmath ( https://github.com/PetteriAimonen/libfixmatrix ).
